@@ -57,5 +57,3 @@ plt.xlabel('Head Size(cm^3)')
 plt.ylabel('Brain Weight(grams)')
 plt.legend()
 plt.show()
-
-
