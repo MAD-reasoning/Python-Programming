@@ -1,6 +1,6 @@
 # Python-Programming
 ## Elementary
--------------
+
 * Write a program that prints ‘Hello World’ to the screen.
 * Write a program that asks the user for their name and greets them with their name.
 * Modify the previous program such that only the users Alice and Bob are greeted with their names.
@@ -13,3 +13,8 @@
 * Write a program that prints the next 20 leap years.
 * Write a program that computes
 4\cdot \sum_{k=1}^{10^6} \frac{(-1)^{k+1}}{2k-1} = 4\cdot(1-1/3+1/5-1/7+1/9-1/11\ldots).
+
+
+*Reference*
+Problems taken from:
+https://adriann.github.io/programming_problems.html
