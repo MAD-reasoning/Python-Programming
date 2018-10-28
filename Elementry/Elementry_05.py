@@ -7,6 +7,6 @@ try:
         if i % 3 == 0 or i % 5 == 0:
             multiple_sum += i
 except ValueError:
-    print("Enter a valid number")
+    print("Enter a valid number ")
 else:
     print("Sum = ", multiple_sum)
