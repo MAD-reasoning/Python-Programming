@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Elementry](https://github.com/MAD-reasoning/Python-Programming#Elementry)
-- [Lists/strings](https://github.com/MAD-reasoning/Python-Programming/Lists/strings)
+- [Elementry]
+- [Lists/strings]
 
-Elementary
+## Elementary
 
 * Write a program that prints ‘Hello World’ to the screen.
 * Write a program that asks the user for their name and greets them with their name.
