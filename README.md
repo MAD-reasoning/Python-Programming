@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Elementry]
+- [Elementary]
 - [Lists/strings]
 
 ## Elementary
