@@ -1,4 +1,4 @@
-# Write a program that asks the user for a number n and prints the sum of the numbers 1 to n.
+# Write a program that asks the user for a number and prints the sum of the numbers 1 to number.
 
 try:
     num_sum = 0
