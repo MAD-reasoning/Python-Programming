@@ -4,4 +4,4 @@ name = input("Enter your name: ")
 if name.lower() == 'alice' or name.lower() == 'bob':
     print("Hi, ", name, " !")
 else:
-    print("shoo! Shoo!")
+    print("Invalid User !")
