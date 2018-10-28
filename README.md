@@ -1,4 +1,10 @@
 # Python-Programming
+
+## Table of Contents
+
+- [Elementry](https://github.com/MAD-reasoning/Python-Programming#Elementry)
+- [Lists/strings](https://github.com/MAD-reasoning/Python-Programming#Lists/strings)
+
 ## Elementary
 
 * Write a program that prints ‘Hello World’ to the screen.
