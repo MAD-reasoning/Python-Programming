@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Elementry](https://github.com/MAD-reasoning/Python-Programming### Elementry)
-- [Lists/strings](https://github.com/MAD-reasoning/Python-Programming##Lists/strings)
+- [Elementry](https://github.com/MAD-reasoning/Python-Programming## Elementry)
+- [Lists/strings](https://github.com/MAD-reasoning/Python-Programming## Lists/strings)
 
 ## Elementary
 
