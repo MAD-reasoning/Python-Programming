@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-- [Elementary]
-- [Lists/strings]
+- [Elementary](https://github.com/MAD-reasoning/Python-Programming/blob/master/README.md#elementary)
+- [Lists/strings](https://github.com/MAD-reasoning/Python-Programming/blob/master/README.md#Lists/strings)
 
 ## Elementary
 
