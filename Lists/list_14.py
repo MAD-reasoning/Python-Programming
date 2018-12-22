@@ -9,8 +9,9 @@ def split_num(num):
         rem = i % 10
         i = div
         lists.append(rem)
-    lists.append(i)
-    lists.reverse()
+    else:
+        lists.append(i)
+        lists.reverse()
     return lists
 
 
