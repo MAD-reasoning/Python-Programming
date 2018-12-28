@@ -29,7 +29,7 @@
 * Write a function that returns the elements on odd positions in a list.
 * Write a function that computes the running total of a list.
 * Write a function that tests whether a string is a palindrome.
-* Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. (Subject to availability of these constructs in your language of choice.)
+* Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion.
 * Write a function on_all that applies a function to every element of a list. Use it to print the first twenty perfect squares. The perfect squares can be found by multiplying each natural number with itself. The first few perfect squares are 1*1= 1, 2*2=4, 3*3=9, 4*4=16. Twelve for example is not a perfect square because there is no natural number m so that m*m=12. (This question is tricky if your programming language makes it difficult to pass functions as arguments.)
 * Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]
 * Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].
